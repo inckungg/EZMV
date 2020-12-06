@@ -1,0 +1,10 @@
+pychorus==0.1
+ffmpeg==1.4
+colorthief==0.2.1
+scenedetect==0.5.3
+youtube_dl==2020.12.5
+numpy==1.19.1
+Pillow==8.0.1
+ffmpeg_python==0.2.0
+opencv-contrib-python
+PyQt5
