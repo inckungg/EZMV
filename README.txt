@@ -2,6 +2,8 @@
 Ronnakrit Yuankrathok (623040195-3)
 Pawarut Butryojantho (623040693-7)
 This project is part of EN842004, EN842005 (2020/1)
+UI DEMO: https://drive.google.com/file/d/1MYfLIenpmh0Emqz5BxQmUb4AiZKqD-6B/view?usp=sharing
+OUTPUT DEMO: https://drive.google.com/drive/folders/1Vn3jWAlzZqgr_69FpyDnfVEEJS2SK8TE?usp=sharing
 
 
 == Required Packages/Modules ==
