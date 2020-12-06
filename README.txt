@@ -45,5 +45,6 @@ magic_cut() - Doesn't work with Video less than 1080p
 
 color_palette() - Doesn't work with Thumbnail less than 1280x720
 
+Only valid for music video between 2-6 minutes. (Change in line 74 (EZMV.py))
 
 ====
